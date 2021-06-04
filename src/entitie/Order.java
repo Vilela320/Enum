@@ -6,6 +6,7 @@ import entities.enun.OrderStatus;
 
 public class Order {
 
+	private String teste;
 	private Integer id;
 	private Date moment;
 	private OrderStatus status;
@@ -49,4 +50,5 @@ public String toString() {
 }
    
    
+
    }
